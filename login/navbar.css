@@ -33,6 +33,8 @@
     background-color: #575757;
 }
 
+
+/* Media Query for smaller screens */
 @media (max-width: 600px) {
     .navbar ul {
         flex-direction: column; /* Stack items vertically */
